@@ -3,7 +3,8 @@
 <head>
     <title>Rooms</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-
+    some change
+    in head
 </head>
     <body onload="loadHomePage()">
         <div>
