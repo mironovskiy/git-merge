@@ -3,27 +3,15 @@
 <head>
     <title>Rooms</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+
 </head>
     <body onload="loadHomePage()">
         <div>
-            <form action="home" method="post">
-                <div class="input-group" style="position: relative; margin:0 auto; margin-top: 20px; max-width: 500px;">
 
-                </div>
-            </form>
         </div>
 
         <div style="text-align: center; margin-top: 20px;">
 
-            <table class="table" style="margin: 20px">
-                <tbody>
-                <tr th:each="room : ${rooms}">
-                    <form action="home/room"  method="post">
-
-                    </form>
-                </tr>
-                </tbody>
-            </table>
         </div>
 
     </body>
