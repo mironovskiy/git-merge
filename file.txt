@@ -19,4 +19,6 @@
     some change
     in footer
     </footer>
+    some change
+    after footer
 </html>
