@@ -9,6 +9,7 @@
     <body onload="loadHomePage()">
         <div>
         some new change in body
+        new line
         </div>
 
         <div style="text-align: center; margin-top: 20px;">
